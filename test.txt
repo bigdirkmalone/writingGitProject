@@ -2,3 +2,5 @@ This is some text.
 Messing around with git.
 
 Once upon a time, I started trying to use this.
+
+You can edit on http://prose.io

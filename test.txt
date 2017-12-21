@@ -4,3 +4,5 @@ Messing around with git.
 Once upon a time, I started trying to use this.
 
 You can edit on http://prose.io
+
+Getting the hang of the workflow. Pushing and pulling, etc.
